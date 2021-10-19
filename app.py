@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 #http://localhost:5000/
 @app.route('/')
-def inicio():
+def inicio():gi
     return 'Hola mundo...'
 
 
